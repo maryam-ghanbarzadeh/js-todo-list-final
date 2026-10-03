@@ -17,4 +17,4 @@ A fully functional Todo List app built with Vanilla JavaScript.
 - Clean code structure
 
 ## Live Demo
-👉 https://YOUR_USERNAME.github.io/js-todo-list-final/
+👉https://maryam_ghanbarzadeh.github.io/js-todo-list-final/
